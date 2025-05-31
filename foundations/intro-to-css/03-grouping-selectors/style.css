@@ -1,0 +1,13 @@
+.Bbutton,.Ybutton{
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman','sans-serif' ;
+}
+.Ybutton{
+
+    background-color: yellow;
+}
+.Bbutton
+{
+    color: white;
+    background-color: black;
+}
